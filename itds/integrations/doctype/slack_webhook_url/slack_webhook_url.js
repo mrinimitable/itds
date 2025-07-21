@@ -1,0 +1,4 @@
+// Copyright (c) 2018, Itds Technologies and contributors
+// For license information, please see license.txt
+
+itds.ui.form.on("Slack Webhook URL", {});

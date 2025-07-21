@@ -1,0 +1,8 @@
+itds/public/js/lib/*
+itds/public/js/itds/misc/tests/*
+itds/public/js/itds/views/test_runner.js
+itds/core/doctype/doctype/boilerplate/*
+itds/core/doctype/report/boilerplate/*
+itds/public/js/itds/class.js
+itds/templates/includes/*
+itds/www/website_script.js

@@ -1,0 +1,10 @@
+---
+no_cache: 1
+---
+
+<!-- </body> -->
+{{
+    itds
+        .get_doc('Print Format', itds.form_dict.print_format)
+        .get_html(itds.form_dict.name, itds.form_dict.letterhead)
+}}

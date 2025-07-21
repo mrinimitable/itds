@@ -1,0 +1,1 @@
+Core module contains the models required for the basic functioning of itds including DocType, User (user), Role and others.

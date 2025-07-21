@@ -1,0 +1,13 @@
+**/hooks.py,itds.gettext.extractors.navbar.extract
+**/doctype/*/*.json,itds.gettext.extractors.doctype.extract
+**/workspace/*/*.json,itds.gettext.extractors.workspace.extract
+**/onboarding_step/*/*.json,itds.gettext.extractors.onboarding_step.extract
+**/module_onboarding/*/*.json,itds.gettext.extractors.module_onboarding.extract
+**/report/*/*.json,itds.gettext.extractors.report.extract
+**.py,itds.gettext.extractors.python.extract
+**/templates/**.js,itds.gettext.extractors.html_template.extract
+**.js,itds.gettext.extractors.javascript.extract
+**.html,itds.gettext.extractors.html_template.extract
+**.vue,itds.gettext.extractors.html_template.extract
+**/custom/*.json,itds.gettext.extractors.customization.extract
+**/fixtures/custom_field.json,itds.gettext.extractors.custom_field.extract
